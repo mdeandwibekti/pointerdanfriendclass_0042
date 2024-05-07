@@ -7,7 +7,7 @@ public:
     void showNim() {
         cout << "no induk = " << nim << endl;
     }
-}; j
+}; 
 
 int main() {
 
