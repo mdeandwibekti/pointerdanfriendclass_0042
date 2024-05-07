@@ -8,6 +8,7 @@ public:
 	void shownilaipelajar(pelajar& x);
 };
 
+
 class pelajar
 {
 private:
